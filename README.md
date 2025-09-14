@@ -13,8 +13,8 @@ Explorar a duração de filmes da Netflix lançados entre 1990 e 1999, identific
 - NumPy
 
 ## Resultados
-- Duração mais frequente: ~100 minutos
-- Gênero **Ação**: X filmes com menos de 90 minutos
+- Duração mais frequente: 100
+- Gênero **Ação**: 7 filmes com menos de 90 minutos
 
 ## Visualização
 Incluí um histograma mostrando a distribuição da duração dos filmes.
