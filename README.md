@@ -1,5 +1,3 @@
-# netflix-1990s-analise
-Analisando a duração dos filmes da Netflix na década de 1990 (desafio DataCamp).
 
 # Análise de Filmes da Netflix - Década de 1990
 
